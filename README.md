@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Steven 👋<br><br>🚀 About Me<br>- 💻 Currently working on a habit tracker app<br>- 🌱 Currently learning C++, React and AWS<br>- 🔎 I'm interested in tech gadgets and photography<br>- 🎯 Goal: 
+Hi there, I'm Steven 👋<br><br>🚀 About Me<br>- 💻 Currently working on multiple projects<br>- 🌱 Currently learning C++, React and AWS<br>- 🔎 I'm interested in tech gadgets and photography<br>- 🎯 Goal: 
 
 
 ## 🌐 Socials:
