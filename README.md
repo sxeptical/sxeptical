@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Steven 👋<br><br>🚀 About Me<br>- 💻 Currently working on multiple projects<br>- 🌱 Currently learning C++, React and AWS<br>- 🔎 I'm interested in tech gadgets and photography<br>-
+Hi there, I'm Steven 👋<br><br>🚀 About Me<br>- 💻 Currently working on multiple projects<br>- 🌱 Currently learning C++, React and AWS<br>- 🔎 I'm interested in tech gadgets and photography<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/steventokms) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:steventokms@gmail.com) 
@@ -10,7 +10,6 @@ Hi there, I'm Steven 👋<br><br>🚀 About Me<br>- 💻 Currently working on mu
 ---
 [![](https://visitcount.itsvg.in/api?id=sxeptical&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![snake gif](https://github.com/sxeptical/sxeptical/blob/output/github-snake-dark.svg)
 
