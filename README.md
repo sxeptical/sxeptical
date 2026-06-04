@@ -9,5 +9,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Sxeptical&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![](https://raw.githubusercontent.com/sxeptical/stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/sxeptical/stats/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/sxeptical/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/sxeptical/github-stats/master/generated/languages.svg)
