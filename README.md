@@ -9,5 +9,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Sxeptical&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![](https://raw.githubusercontent.com/sxeptical/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/sxeptical/github-stats/master/generated/languages.svg)
+![](https://github.com/sxeptical/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/sxeptical/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/sxeptical/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/sxeptical/github-stats/blob/generated/languages.svg#gh-light-mode-only)
